@@ -130,6 +130,10 @@ d:/ebook/
 🚀 How to Use
 For Users:
 Access the App: Navigate to http://localhost:3000
+For devs:
+npm install
+npm run dev
+Access the App: Navigate to http://localhost:3000
 
 Upload a Book:
 
@@ -202,6 +206,7 @@ Vibrant gradient accents
 Smooth micro-animations
 Mobile-first responsive design
 Clean, modern typography
+
 🔧 Technical Stack:
 
 Backend: Node.js + Express
